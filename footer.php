@@ -101,5 +101,8 @@
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
 
+<!-- something new here for the next commit edit it la  -->
+
+
 	</body>
 </html>
